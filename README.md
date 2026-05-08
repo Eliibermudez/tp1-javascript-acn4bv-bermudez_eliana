@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Datos alumno
 
 Eliana Bermúdez
@@ -44,3 +45,7 @@ Aplicación web desarrollada con JavaScript para gestionar tareas
 - Botón completar
 - Botón eliminar
 - Validación de duplicados
+=======
+# tp1-javascript-acn4bv-bermudez_eliana
+Trabajo Práctico 1 – JavaScript
+>>>>>>> 763522a2e189c03394076e32ecd34efa74a836cb
