@@ -1,0 +1,59 @@
+body {    
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+.card {
+    border-radius: 20px;
+    border: none;
+}
+
+.tarea-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 15px;
+    padding: 15px 18px;
+}
+
+.buscador {
+    position: relative;
+}
+
+.buscador input {
+    padding-right: 40px;
+}
+
+.buscador i {
+    position: absolute;
+    right: 12px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: gray;
+    pointer-events: none;
+
+} 
+
+.completada span {
+    text-decoration: line-through;
+    color: gray;
+}
+
+#btnAgregar {
+    min-width: 140px;
+}
+
+input {
+    border-radius: 10px;
+}
+
+.list-group-item {   
+    justify-content: space-between;
+    align-items: center;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.list-group-item:hover {
+    background-color: #f1f1f1;
+}
+
