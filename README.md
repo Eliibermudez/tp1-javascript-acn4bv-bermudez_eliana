@@ -1,11 +1,8 @@
-<<<<<<< HEAD
-## Datos alumno
-
+# tp1-javascript-acn4bv-bermudez_eliana
 Eliana Bermúdez
 Comisión ACN2BV
 
 # Trabajo Práctico 1 – JavaScript
-
 Aplicación web desarrollada con JavaScript para gestionar tareas
 
 ## Funcionalidades 
@@ -45,7 +42,5 @@ Aplicación web desarrollada con JavaScript para gestionar tareas
 - Botón completar
 - Botón eliminar
 - Validación de duplicados
-=======
-# tp1-javascript-acn4bv-bermudez_eliana
-Trabajo Práctico 1 – JavaScript
->>>>>>> 763522a2e189c03394076e32ecd34efa74a836cb
+
+
